@@ -20,4 +20,4 @@
     * Run command : ruby program.rb test
   * Live mode
     * Run command : ruby program.rb {filename}
-    * Example : ruby program.rb tests\testcase2.txt
+    * Example : ruby program.rb tests/testcase2.txt
